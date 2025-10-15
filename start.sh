@@ -14,4 +14,4 @@ echo "Starting backend server..."
 cd backend
 npm install
 npm run build
-# หรือคำสั่งที่ใช้ในการรันเซิร์ฟเวอร์จริงๆ ของคุณ
+# หรือคำสั่งที่ใช้ในการรันเซิร์ฟเวอร์จริงๆ ของคุณ 
