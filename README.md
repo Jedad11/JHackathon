@@ -83,6 +83,22 @@ I worked on the backend: the class/booking data layer, the staff application
 CRUD flow (apply → pending → accepted/rejected), and user status updates on
 application approval.
 
+## Screenshots
+
+Walkthrough of the main flow — register, browse classes, book a class, view "My Bookings", and apply to become an instructor.
+
+> The real backend talks to a Supabase project owned by the team; these screenshots were captured against the real frontend running against a local mock API server that mirrors the same request/response shapes, since no Supabase credentials for this project were available for the walkthrough.
+
+| | |
+|---|---|
+| **Home page** | ![Home page](./screenshots/01-home.png) |
+| **Register** | ![Register](./screenshots/02-register.png) |
+| **Class listings** | ![Class listings](./screenshots/03-classes.png) |
+| **Class detail** | ![Class detail](./screenshots/04-class-detail.png) |
+| **Booking form** | ![Booking form](./screenshots/05-booking-form.png) |
+| **My Bookings** | ![My Bookings](./screenshots/06-my-bookings.png) |
+| **Staff application** | ![Staff application](./screenshots/07-staff-application.png) |
+
 ## About the Project
 
 Originally forked from [Waltzz62/JHackathon](https://github.com/Waltzz62/JHackathon)
