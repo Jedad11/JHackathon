@@ -1,4 +1,4 @@
-# JHackathon — Class Booking Platform
+# Taste of Thai — Class Booking Platform
 
 A web platform for browsing and booking classes, with a staff-application flow
 for instructors and an admin panel for managing classes, staff, and bookings.
